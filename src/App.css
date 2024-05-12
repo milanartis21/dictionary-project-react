@@ -1,3 +1,13 @@
+body {
+  color: black;
+  background: rgb(192, 226, 247);
+  font-family: cursive;
+}
+
+.App-header {
+  text-align: center;
+}
+
 .App-footer {
   text-align: center;
   margin: 30px 0;
